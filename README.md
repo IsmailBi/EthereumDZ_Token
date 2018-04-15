@@ -1,2 +1,0 @@
-# EthereumDZ_Token
-Token
